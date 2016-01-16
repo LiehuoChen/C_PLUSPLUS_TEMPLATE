@@ -1,10 +1,10 @@
-#include "uniqueptr2.hpp"
+#include "uniqueptr.hpp"
 
 #include <utility>
 #include <iostream>
 #include <string>
 #include <cassert>
-#define DEB 1
+#define DEB 0
 
 class Base {
     private:
