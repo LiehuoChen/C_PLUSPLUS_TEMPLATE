@@ -1,7 +1,4 @@
-/****
- * The idea of recursive the operator[] comes from the following code:
- *  http://www.drdobbs.com/a-class-template-for-n-dimensional-gener/184401319?pgno=7
- ***/
+
 #ifndef LH_ARRAY
 #define LH_ARRAY
 #include<cstddef>
